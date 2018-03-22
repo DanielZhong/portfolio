@@ -1,0 +1,12 @@
+
+.bodybackground2 {
+  background-image: url("../../Images/background.jpg");
+  background-attachment: fixed;
+}
+.title1 {
+    color: white;
+}
+.background1{
+  background-image: url("../../Images/back.PNG");
+  background-attachment: fixed;
+}
